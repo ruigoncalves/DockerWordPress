@@ -16,3 +16,5 @@ $ docker-compose up
 (cancel these with `CTRL + C`)
 
 To test it out, open your browser, and navigate to `http://localhost:8080` (or whatever you have set in the `.env` file)
+
+# See how it works on QEM
